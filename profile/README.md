@@ -7,6 +7,7 @@ Então, bora pra o código 😎
 
 
 Da uma olhada no meu github também: 
-<a href="https://www.instagram.com/pedromesmer/" target="_blank" style='margin-right: 15px'>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/pedromesmer?label=pedromesmer&style=for-the-badge">
+<br />
+<a href="https://github.com/pedromesmer" target="_blank" style='margin-right: 15px'>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/pedromesmer?label=GITHUB&style=for-the-badge">
 </a>
