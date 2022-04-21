@@ -6,5 +6,7 @@ E pensando nisso, criamos o **copia-e-coda**, pra simplismente usarmos e templat
 Então, bora pra o código 😎
 
 
-Da uma olhada no meu github também
-![GitHub followers](https://img.shields.io/github/followers/pedromesmer?style=social)
+Da uma olhada no meu github também: 
+<a href="https://www.instagram.com/pedromesmer/" target="_blank" style='margin-right: 15px'>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/pedromesmer?label=pedromesmer&style=for-the-badge">
+</a>
